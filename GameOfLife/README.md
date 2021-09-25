@@ -6,3 +6,5 @@
 - Right mouse button to toggle one cell when the program is paused
 
 Have fun :)
+
+![demo](demo.gif)
